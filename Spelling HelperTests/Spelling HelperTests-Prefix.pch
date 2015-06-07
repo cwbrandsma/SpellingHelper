@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Spelling HelperTests' target in the 'Spelling HelperTests' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif

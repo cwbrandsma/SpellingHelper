@@ -1,0 +1,5 @@
+Color Pallet:
+Main: D8B98E
+Second: 6E0D25
+Third: A7988B
+Forth: F1EBE4
